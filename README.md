@@ -14,6 +14,7 @@ where these crashes have been observed:
 - Terra gloria quests: very frequently during the long dialogs involving Lazy. 
 - Geffen Magic Tournament: sometimes when the Desert Wolf spawns during the
   trial to be allowed to register.
+- Geffen Magic Tournament: very rarely during some matches.
 - Monster Trivia at the Summer Event: right before the four options appear on
   the screen.
 
