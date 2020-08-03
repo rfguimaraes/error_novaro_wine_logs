@@ -1,0 +1,1 @@
+Linux xmg15.huaogi 5.7.11-200.fc32.x86_64 #1 SMP Wed Jul 29 17:15:52 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
