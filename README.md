@@ -29,3 +29,6 @@ In the future more log files may be added.
 
 - Add log files from the crash at Geffen Magic Tournament in the match against
   Ju.
+- Add log files and screeshot at Monster Trivia in Summer Festival (note that
+  the screenshot shows that the menu with the options was not displayed, the
+  game crashed when I pressed "Enter")
