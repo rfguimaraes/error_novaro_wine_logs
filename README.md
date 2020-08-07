@@ -39,3 +39,8 @@ In the future more log files may be added.
 
 - Add log files of the very common crash when the Desert Wolf spawns in GMT
   (inside the instance, but before the actual tournament).
+
+07 Aug 2020
+
+- Add logs files of crashes during the main quest of the Illusion of the
+  Vampire. One when talking to Jubilee and the other when taling to Dracula.
